@@ -7,4 +7,4 @@ If you like my projects, you can support and motivate me. Sometimes I plan to op
 ## LINKS
 - [website](https://gokmengorgen.net) - no tracking
 - [gitea](https://git.gokmengorgen.net/goedev/) - all my repos are actually here
-- [sponsors](https://github.com/sponsors/gkmngrgn) - become a sponsor of me
+- [sponsors](https://github.com/sponsors/gkmngrgn) - support me
