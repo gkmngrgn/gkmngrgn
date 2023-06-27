@@ -5,5 +5,5 @@ I'm **GoeDev**, living in Berlin, but sometimes I visit Ankara. I'm working as a
 If you like my projects, you can support and motivate me. Sometimes I plan to open LiveCoding streams on [Twitch](https://www.twitch.tv/goedev). It depends on you.
 
 ## LINKS
-- [website](https://gokmengorgen.net) - no tracking
-- [sponsors](https://github.com/sponsors/gkmngrgn) - support me
+- [website](https://gokmengorgen.net)
+- [sponsors](https://github.com/sponsors/gkmngrgn)
