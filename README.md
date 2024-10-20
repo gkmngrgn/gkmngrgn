@@ -1,7 +1,8 @@
 # HELLO 👋
 
-I'm **GoeDev**, living in Berlin, but sometimes I visit Ankara. I'm working as a Software Engineer at [Mimi](https://github.com/MimiHearingTechnologies) and coding in hearing technologies.
+Hello! I started my career by contributing to the Pardus project. After that, I worked as a Software Engineer on web projects for a long time. Now I’m busy with artificial intelligence to develop hearing technologies.
 
 ## LINKS
 - [website](https://gokmengorgen.net)
-- [sponsors](https://github.com/sponsors/gkmngrgn)
+- [X - @gkmngrgn](https://x.com/gkmngrgn)
+- [LinkedIn](https://linkedin.com/in/gokmengorgen)
